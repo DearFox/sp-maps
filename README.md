@@ -5,4 +5,7 @@
 
 [![СП Кровушка](https://sp.owo.name/sp_blood_map/favicon.png)СП Кровушка](https://sp.owo.name/sp_blood_map/#world:-574:73:546:0:-1.04:1.47:0:0:free).
 
+[![СП Кровушка](https://sp.owo.name/sp4_spawn_and_hub/favicon.png)СП4 Спавн](https://sp.owo.name/sp4_spawn_and_hub/#world:203:51:262:0:2.96:1.54:0:0:free).
+
+
 Советую сразу зайти в боковое меню карты и выкрутить настройки в минимум. С компа лагает нехило. (Предпологаю что из-за пещер).
