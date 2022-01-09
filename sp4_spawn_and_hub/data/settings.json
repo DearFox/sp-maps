@@ -1,0 +1,94 @@
+{
+  "useCookies": true,
+  "freeFlightEnabled": true,
+  "maps": {
+    "nether": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 0,
+        "z": 0
+      },
+      "world": "b715eb3b-b1c1-4a89-90f0-865cabf0634d",
+      "ordinal": 1,
+      "skyColor": {
+        "r": 0.16078432,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "ambientLight": 0.6,
+      "name": "Nether"
+    },
+    "world": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 203,
+        "z": 257
+      },
+      "world": "78ee626f-910a-4efb-807b-e84c6b279ebd",
+      "ordinal": 0,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 0.5,
+      "name": "World"
+    }
+  }
+}
